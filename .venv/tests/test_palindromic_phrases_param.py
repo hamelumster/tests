@@ -1,5 +1,5 @@
 import pytest
-from palindroms import solve  # Замените 'your_module' на имя файла, где находится функция solve
+from palindroms import solve
 
 @pytest.mark.parametrize("phrases, expected", [
     ([

@@ -1,5 +1,5 @@
 import pytest
-from cookbook import solve  # Замените 'your_module' на имя файла, где находится функция solve
+from cookbook import solve
 
 @pytest.mark.parametrize("cook_book, person, expected", [
     (
